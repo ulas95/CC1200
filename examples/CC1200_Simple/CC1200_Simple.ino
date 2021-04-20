@@ -8,7 +8,7 @@
 #define TARG_NODE 0x02
 #else
 #define THIS_NODE 0x02
-#define TARG_NODE 0x02
+#define TARG_NODE 0x01
 #endif
 
 // CC1200 Radio Interrupt Pin
